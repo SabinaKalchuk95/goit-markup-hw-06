@@ -359,7 +359,7 @@ img {
 } */
 /*4section portfolio*/
 
-.list-portfolio {
+/* .list-portfolio {
   display: flex;
   flex-wrap: wrap;
   flex-direction: row;
@@ -373,9 +373,8 @@ img {
 .text-portf {
   border: 1px solid #e7e9fc;
   border-top: none;
-}
+} */
 
-/*foote*/
 .logof {
   font-family: "Raleway", sans-serif;
   font-weight: 700;
@@ -405,31 +404,7 @@ img {
   display: flex;
   align-items: baseline;
 }
-.logo-footer {
-  font-family: "Raleway", sans-serif;
-  font-weight: 700;
-  font-size: 18px;
-  line-height: 117%;
-  letter-spacing: 0.03em;
-  text-transform: uppercase;
-  color: #f4f4fd;
-}
-.footer-text {
-  font-weight: 400;
-  font-size: 16px;
-  line-height: 1.5;
-  letter-spacing: 0.02em;
-  color: #f4f4fd;
-  width: 264px;
-}
-.svg-parag {
-  font-weight: 500;
-  font-size: 16px;
-  line-height: 1.5;
-  letter-spacing: 0.02em;
-  color: #fff;
-  margin-bottom: 16px;
-}
+
 .a-svg-foot {
   width: 40px;
   height: 40px;
@@ -446,10 +421,7 @@ img {
 .a-svg-foot:focus {
   background-color: #31d0aa;
 }
-.ul-svg-foot {
-  display: flex;
-  gap: 16px;
-}
+
 .foot-box-web {
   margin-right: 120px;
 }
@@ -463,15 +435,6 @@ img {
 .form-input-btn {
   display: flex;
   gap: 24px;
-}
-
-.subscribe {
-  font-weight: 500;
-  font-size: 16px;
-  line-height: 1.5;
-  letter-spacing: 0.02em;
-  color: #fff;
-  margin-bottom: 16px;
 }
 
 .input-footer::placeholder {
